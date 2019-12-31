@@ -1,0 +1,31 @@
+Conversión de Solid Edge a STEP
+Fecha: martes,diciembre 31,2019 10:08
+Archivo de salida: C:\Users\marco\OneDrive\Documentos\GitHub\AMS-KiCAD-Packages3D\Raspberry_Pi_Foundation.3dshapres\Conn_1473149-4_Raspberry_Pi_Industrial_CM3+.stp
+Autor: Marco R Bosco
+Organización: Autonomous Motion System S.L.
+Sistema de origen: Solid Edge
+
+Equipo:
+Procesador: Intel(R) Core(TM) i7-7600U CPU @ 2.80GHz
+Sistema operativo: Windows 10 Professional
+Memoria instalada: 15.84 GB
+
+Información del programa
+Versión de Parasolid: 32.0.186
+Versión de PSBodyShop: 31.1.110
+Versión de Step Adapter: 5.0.48
+Versión de Solid Edge: 220.00.02.010 x64
+
+Opciones de exportación de STEP
+Formato de exportación: AP203
+Exportar superficies de construcción: Activado
+Exportar sólidos de construcción: Activado
+Exportar curvas de construcción: Activado
+Exportar sólo piezas mostradas: Desactivado
+Exportar unidades: Millimeters
+Exportar nombres de componentes de pieza como Unicode: Desactivado
+Exportar PMI: Desactivado
+
+Fase 1 de 1 Convirtiendo Parasolid a tipos de datos externos...
+Proceso de conversión completado
+Tiempo requerido para convertir:00 : 00 : 06
