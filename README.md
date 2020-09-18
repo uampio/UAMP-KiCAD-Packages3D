@@ -1,11 +1,11 @@
-# AMS-KiCAD-Packages3D
+# UAMP-KiCAD-Packages3D
 
 It is important to configure path to the KiCAD root folder:
 
-root_folder/ (AMSGITHUB)
+root_folder/ (UAMPGITHUB)
 
-        AMS-KiCAD-Footprints
-        AMS-KiCAD-Packages3D
-        AMS-KiCAD-Symbols
+        UAMP-KiCAD-Footprints
+        UAMP-KiCAD-Packages3D
+        UAMP-KiCAD-Symbols
 
-![alt text](https://github.com/AMSMarcoRBosco/AMS-KiCAD-Packages3D/blob/master/ams_path.png)
+![alt text](https://github.com/uampio/UAMP-KiCAD-Packages3D/blob/master/uamp_path_symbols.png)
